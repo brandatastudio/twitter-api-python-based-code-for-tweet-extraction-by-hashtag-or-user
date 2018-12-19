@@ -1,0 +1,11 @@
+# Hey! Thanks for checking this code out, a couple of things to take in consideration:
+
+
+1) The code was not completely written by me, actually, it was written mostly by someone else using the twitter api on  a blog post,
+and I just adapted it to make sure the content was delivered in a csv format, both for extracting tweets based on a particular user handle, and tweets based on 
+a particular hashtag. I don´t know who the original owner was, so please tell if it was you, to give the proper credit. 
+
+2) There are two files that need to be modified before use, the ones related to the twitter credentials, one in a .py file and one in a .json
+make sure to add your credentials properly there, you have further instructions inside those files.
+
+
