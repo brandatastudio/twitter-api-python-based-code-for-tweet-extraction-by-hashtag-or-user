@@ -17,4 +17,4 @@ Twitter_credentials = { 'ACCESS_TOKEN':'add access token here',
 
 
 with open('twitter_credentials.json', 'w') as secret_info:
-    json.dump(twitter_cred, secret_info, indent=4, sort_keys=True)
+    json.dump(Twitter_credentials, secret_info, indent=4, sort_keys=True)
