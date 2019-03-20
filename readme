@@ -9,4 +9,16 @@ a particular hashtag. I don´t know who the original owner was, so please tell i
 make sure to add your credentials properly there. After that, run both files, and the rest of the respective function files should
 work properly. 
 
+3) The libraries and versions used, where the following: 
+
+anaconda-client                    1.6.14   
+anaconda-navigator                 1.9.6    
+anaconda-project                   0.8.2   
+tweepy                             3.6.0  
+pandas                             0.23.4 
+numpy                              1.15.4 
+jupyter                            1.0.0    
+jupyter-client                     5.2.3    
+jupyter-console                    5.2.0    
+jupyter-core                       4.4.0  
 
